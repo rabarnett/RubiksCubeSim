@@ -3,7 +3,7 @@
 # Rubik's Cube Simulator (Native iOS Application)
 
 <p align ="center">
-<img src="Assets/Demo.gif" width ="40%"> <img src="Assets/Mix.gif" width ="40%">
+<img src="Assets/Demo.gif" width ="30%"> <img src="Assets/Mix.gif" width ="30%">
 </p>
 
 Welcome to the Rubik's Cube Simulator! Have you ever wanted to practice cube algorithms on the go? Well now you can. This application allows you to practice algorithms and discover new ones. This application uses the well known cube notation: F, U, L, R, D, B (front, upper, left, right, down, back respectively) and " ' " to denote counterclockwise or the lack there of to denote clockwise.
