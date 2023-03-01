@@ -1,4 +1,4 @@
-&copy; Reese Barnett
+&copy; Reese Barnett(https://www.linkedin.com/in/reesebarnett2024)
 
 # Rubik's Cube Simulator (Native iOS Application)
 
